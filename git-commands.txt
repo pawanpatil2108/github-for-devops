@@ -17,3 +17,16 @@
  git status
  git restore testing.py
  git status
+ git add git-commands.txt
+ git status
+ git commit -m "added git commands"
+ git status
+ git remote add origin https://github.com/pawanpatil2108/Github-for-devops.git
+ git remote -v
+ git remote set-url origin https://@github.com/pawanpatil2108/G… 
+ git push origin master
+ git status
+ git add git-commands.txt
+ git commit -m "added git commands"
+ git push origin master
+ 
